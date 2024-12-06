@@ -1,10 +1,7 @@
-# ##################################
-#
-#
+# Multify - Analytics DashDex
+Multi-Chain Analytics Defi Dex Dashboard powered by Covalent Api: Built with Nextjs and Chakra UI
 
-Find the best new cryptocurrency projects! Vote for your favorite coins, and see what's trending.
-
-# Note
+# Requirements
 ## ✔✔✔ Node Version: 18.20.4
 ## ✔✔✔ Available OS: Win10, Mac OS
 ## ✔✔✔ Chrome
